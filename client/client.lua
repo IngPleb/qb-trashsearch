@@ -21,8 +21,8 @@ RegisterNetEvent('qb-trashsearch:client:searchTrash', function(binId)
         disableMouse = false,
         disableCombat = true,
     }, {
-        animDict = 'anim@amb@business@weed@weed_inspecting_lo_med_hi@',
-        anim = 'weed_crouch_checkingleaves_idle_01_inspector',
+        animDict = Config.Animations.AnimationDictionary,
+        anim = Config.Animations.Animation,
         flags = 16,
     }, {}, {}, function() -- Play When Done
         -- Clear ped task

@@ -103,7 +103,7 @@ RegisterNetEvent('qb-trashsearch:server:searchedTrash', function(binId)
 
     local items = {}
 
-    for i = 1, Config.Reward.NumberOfItems do
+    for i = 1, math.random(Config.Reward.MinNumberOfItems, Config.Reward.MaxNumberOfItems) do
         local item = Config.Reward.ItemList[math.random(1, #Config.Reward.ItemList)]
         items[#items + 1] = item
     end

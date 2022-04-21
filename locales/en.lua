@@ -8,7 +8,7 @@ local Translations = {
         nothingFound = "You didn't find anything!",
     },
     progressbar = {
-        searching = "You are searching through trash",
+        searching = "Searching through trash",
     },
     reward = {
         money = "You have found %{amount}$",
