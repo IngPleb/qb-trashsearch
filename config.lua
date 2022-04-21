@@ -5,7 +5,7 @@ Config.General = {
     -- Model of the trash bins -> can be entered as a string or as a number
     TrashBinModels = {
         -1096777189, 666561306, 1437508529, -1426008804, -228596739, 161465839,
-        651101403
+        651101403,-58485588,218085040
     },
     -- Search distance for qb-target
     SearchDistance = 1.5,
