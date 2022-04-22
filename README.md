@@ -12,7 +12,7 @@
 * Cooldown to prevent you from farming
 * Bins that were recently emptied will be filled again after certain amount of time
 * Absolutely everything is customizable in the config file
-* Locales (en & cs)
+* Locales (en, cs & de - [keenowastaken](https://github.com/keenowastaken))
 
 <h1>Preview</h1>
 
