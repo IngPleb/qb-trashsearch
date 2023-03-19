@@ -65,4 +65,4 @@ https://i.imgur.com/kupGVaK.png
 2. Unpack and put it in your resources (If you are using qb-core default hierarchy, you can just put it in `resources/[qb]/`)
 3. Configure the script in the config file
 4. Enjoy :)
-5. If you need support, text me on discord: `@IngPleb#0001` or make an issue [HERE](https://github.com/IngPleb/qb-trashsearch/issues)
+5. If you need support make an issue [HERE](https://github.com/IngPleb/qb-trashsearch/issues)
