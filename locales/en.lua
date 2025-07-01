@@ -1,6 +1,6 @@
 local Translations = {
     info = {
-        search = 'Search trough trash',
+        search = 'Search through trash',
     },
     error = {
         cooldown = 'You have to wait %{time} seconds to search again',
